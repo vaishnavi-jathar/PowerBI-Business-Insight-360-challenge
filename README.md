@@ -1,5 +1,5 @@
 # PowerBI-Business-Insight-360
-[Live Dashoard](https://app.powerbi.com/links/pI91cUP0sr?ctid=ac9e40ba-bfc8-4736-b319-c67797a3f186&pbi_source=linkShare)
+[Live Dashoard](https://app.powerbi.com/view?r=eyJrIjoiN2Q0MTAxMDItNmIzYS00MDI5LTkxMjctNGI2NjQ5YWUxN2ZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Problem Statement:**
 
